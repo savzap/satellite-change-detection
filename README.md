@@ -34,5 +34,3 @@ text
 
 ├── satellite_urban_classification.m  # Unified master script managing ingestion, training, and threshold processing
 └── README.md                         # Professional portfolio documentation and engineering abstract
-
-Use code with caution.
