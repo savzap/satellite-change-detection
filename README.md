@@ -28,9 +28,3 @@ Differentiating sprawling infrastructure profiles from native Mediterranean topo
 * **Loss Function Integration:** Employs **Cross-Entropy** loss calculation during optimization epochs to minimize error values at the terminal dataset computation loop.
 * **Random Data Partitioning:** Automatically splits training matrices (70% Training, 15% Validation, 15% Testing) to guarantee independent validation checks on the output layers.
 
-### Repository Layout
-
-text
-
-├── satellite_urban_classification.m  # Unified master script managing ingestion, training, and threshold processing
-└── README.md                         # Professional portfolio documentation and engineering abstract
